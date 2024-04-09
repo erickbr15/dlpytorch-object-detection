@@ -7,8 +7,8 @@ This GitHub repository hosts a series of Jupyter notebooks focused on object det
 | Notebook Name                        | Description                                                   |
 |--------------------------------------|---------------------------------------------------------------|
 | `General_Intersection_over_Union`               | Detailed implementation of the IoU and GIoU metrics. Essential for understanding these evaluation metrics in object detection models. |
-| `Airplane_Detection`  | Demonstrates object detection (example: airplane in an image) using a modified pre-trained classification neural network, adapted for object detection as a regression problem. |
-| `Airplane_Detection_YOLO`            | Implements airplane detection using the YOLO (You Only Look Once) approach. Showcases the efficiency and accuracy of YOLO in real-time object detection. |
+| `Airplane_Detection (Not available yet)`  | Demonstrates object detection (example: airplane in an image) using a modified pre-trained classification neural network, adapted for object detection as a regression problem. |
+| `Airplane_Detection_YOLO (Not available yet)`            | Implements airplane detection using the YOLO (You Only Look Once) approach. Showcases the efficiency and accuracy of YOLO in real-time object detection. |
 
 Each notebook is crafted to provide a hands-on experience with object detection techniques, from foundational metrics to advanced methodologies. Whether you are a beginner or an experienced practitioner, these notebooks serve as a valuable resource for understanding and applying object detection algorithms in real-world scenarios.
 
