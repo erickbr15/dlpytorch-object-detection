@@ -14,12 +14,12 @@ Each notebook is crafted to provide a hands-on experience with object detection 
 
 
 ## Notebook: General_Intersection_over_Union.ipynb
-###Intersection over Union (IoU)
+### Intersection over Union (IoU)
 IoU is a metric used in computer vision to measure the accuracy of an object detector on a particular dataset. It is defined as the area of overlap between the predicted bounding box and the ground truth bounding box, divided by the area of union of these two boxes:
 
 IoU = Area of Overlap / Area of Union
 
-###Generalized Intersection over Union (GIoU)
+### Generalized Intersection over Union (GIoU)
 
 GIoU is an extension of the IoU metric, designed to offer a more accurate measure of the spatial relationship between two bounding boxes. It takes into account the cases where IoU is 0 (non-overlapping bounding boxes). GIoU is defined as:
 
